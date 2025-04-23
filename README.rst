@@ -1,5 +1,6 @@
 README
 ======
+
 When projects start to grow, the need for a globally accessible configuration
 manager is obvious.
 
