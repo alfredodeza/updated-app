@@ -15,7 +15,7 @@ You do not need to know anything about how **guachi** stores the values, just
 treat it like a regular dictionary!
 
 User Interaction
-------------------
+-----------------
 Let's assume you are dealing with a Twitter application that uses a ``ini`` file.
 This is a sampla INI file and how it looks::
 
